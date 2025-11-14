@@ -1,4 +1,5 @@
-#stub matching
+# stub matching
+
 # 📡 Comparison of Single and Double Stub Matching  
 ### Transmission Lines – Skill Assessment II  
 ---
@@ -81,7 +82,8 @@ So they use **double stub matching**, which:
 - Line impedance: 50 Ω  
 
 **Normalize:**  
-zL = (30 + j40) / 50 = 0.6 + j0.8
+<img width="812" height="615" alt="image" src="https://github.com/user-attachments/assets/caebc52d-4c26-416a-b6e6-39f5027be81b" />
+<img width="958" height="696" alt="image" src="https://github.com/user-attachments/assets/68c5f59c-2604-487c-82e6-1487ad3e8830" />
 
 **Final results (Smith chart):**
 - Stub position → **0.155 λ**  
@@ -96,9 +98,9 @@ zL = (30 + j40) / 50 = 0.6 + j0.8
 - ZL = 25 + j30 Ω  
 - Z0 = 50 Ω  
 - Stub spacing = λ/8  
+<img width="955" height="619" alt="image" src="https://github.com/user-attachments/assets/841a84d7-37c2-4d79-90bb-3f136854080c" />
+<img width="989" height="713" alt="image" src="https://github.com/user-attachments/assets/9d8d580c-9a7e-4092-9afd-7860031bb736" />
 
-**Normalize:**  
-zL = 0.5 + j0.6
 
 **Final results:**  
 - Stub 1 length → **0.092 λ**  
